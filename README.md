@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# World 2 Hider
+A plugin to hide World 2.
